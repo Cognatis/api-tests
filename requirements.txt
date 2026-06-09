@@ -1,0 +1,4 @@
+requests>=2.34
+pandas>=2.0
+jupyter>=1.1
+ipykernel>=7.0
